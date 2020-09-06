@@ -1,0 +1,28 @@
+
+body {
+    background-color: aqua;
+    font-family: 'Nunito', sans-serif;
+}
+
+.section-1 {
+    background: linear-gradient(100deg, #f01, #9198e5);
+    color: rgb(255, 255, 255);
+    border: 8px solid #000;
+}
+
+.text-principal {
+    color: yellow;
+    border: 6px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.section-2 {
+    background-color: #af0;
+}
+
+input {
+    border: none;
+}

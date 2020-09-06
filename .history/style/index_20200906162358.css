@@ -1,0 +1,14 @@
+
+body {
+    background-color: aqua;
+    font-family: 'Nunito', sans-serif;
+}
+
+.section-1 {
+    background-color: rgba(1);
+    color: #fff;
+}
+
+.section-2 {
+    background-color: #af0;
+}

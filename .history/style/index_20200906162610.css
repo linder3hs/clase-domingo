@@ -1,0 +1,14 @@
+
+body {
+    background-color: aqua;
+    font-family: 'Nunito', sans-serif;
+}
+
+.section-1 {
+    backgroun: line-gradient()
+    color: rgb(255, 255, 255);
+}
+
+.section-2 {
+    background-color: #af0;
+}

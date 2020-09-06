@@ -1,0 +1,28 @@
+
+body {
+    background-color: aqua;
+    font-family: 'Nunito', sans-serif;
+}
+
+.section-1 {
+    background: linear-gradient(100deg, #f01, #9198e5);
+    color: rgb(255, 255, 255);
+    border: 8px solid #000;
+}
+
+.text-principal {
+    color: yellow;
+    border: 6px solid black;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 100px;
+}
+
+.section-2 {
+    background-color: #af0;
+}
+
+input {
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet">
+}
